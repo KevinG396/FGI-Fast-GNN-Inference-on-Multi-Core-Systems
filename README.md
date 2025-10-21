@@ -10,7 +10,7 @@ C code implementation of _FGI: Fast GNN Inference on Multi-Core Systems_ (IPDPSW
 Chenfeng Zhao,
 Roger Chamberlain
 
-<img src="imgs/speedup.png" width="300">
+<img src="imgs/speedup.png" width="500">
 </div>
 
 ## Overview
