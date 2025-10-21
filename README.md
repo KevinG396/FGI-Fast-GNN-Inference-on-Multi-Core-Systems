@@ -14,7 +14,7 @@ Roger D. Chamberlain
 </div>
 
 ## Overview
-This repository is the official implementation of the **IPDPS Workshops 2025 paper** [_FGI: Fast GNN Inference on Multi-Core Systems_](https://ieeexplore.ieee.org/document/11105982). In this work, we present FGI, a Fast GNN Inference system for large-scale graph data. FGI employs different parallelization strategies, maximizing the utilization of multi-level cache hierarchies in multi-core systems. We evaluate the Graph Convolutional Network (GCN) model with FGI on a 128-core AMD EPYC system. FGI achieves up to 2.64× inference speedup compared to state-of-the-art libraries across five large-scale, high-dimensional graph datasets with different properties.
+This repository is the official implementation of the **IPDPS Workshops 2025 paper** [_FGI: Fast GNN Inference on Multi-Core Systems_](https://ieeexplore.ieee.org/document/11105982). In this work, we present FGI, a Fast GNN Inference system for large-scale graph data. FGI employs different parallelization strategies, maximizing the utilization of multi-level cache hierarchies in multi-core systems. We evaluate the Graph Convolutional Network (GCN) model with FGI on a 128-core AMD EPYC system. FGI achieve up to **2.64x** inference speed compared to Deep Graph Library and **3.36x** compared to PyTorch-Geometric across five large-scale, high-dimensional graph datasets with different properties.
 
 ## Recommended Requirements
 ### Software Requrements
