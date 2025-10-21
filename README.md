@@ -26,4 +26,4 @@ This repository is the official implementation of the **IPDPS Workshops 2025 pap
 - Multi-core AMD CPUs with multiple Core Complex Dies (CCDs)
 - Main Memory >= 8GB
 
-## Code coming soon
+## Code Coming Soon
