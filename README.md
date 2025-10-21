@@ -8,7 +8,7 @@ C code implementation of _FGI: Fast GNN Inference on Multi-Core Systems_ (IPDPSW
 
 [Binglin Ji](https://keving396.github.io/kevinji.github.io//),
 Chenfeng Zhao,
-Roger Chamberlain
+Roger D. Chamberlain
 
 <img src="imgs/speedup_.png" width="600">
 </div>
