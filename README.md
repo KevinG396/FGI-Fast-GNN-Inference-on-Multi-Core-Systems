@@ -18,9 +18,9 @@ This repository is the official implementation of the **IPDPS Workshops 2025 pap
 
 ## Recommended Requirements
 ### Software Requrements
-```bash
+
 - OS:
-    Linux Ubuntu >= 16.04 or Rocky Linux >= 9.5
+    ```Linux Ubuntu >= 16.04``` or Rocky Linux >= 9.5
 - Software stack dependencies:
     Pytorch == 2.3.1
     DGL == 2.4.0
@@ -28,7 +28,7 @@ This repository is the official implementation of the **IPDPS Workshops 2025 pap
     GCC == 11.5.0
 - Parallel Computing Tool:
     OpenMP version 4.5 
-```
+
 
 ### HardWare Requirements
 - Multi-core AMD CPUs with multiple Core Complex Dies (CCDs)
